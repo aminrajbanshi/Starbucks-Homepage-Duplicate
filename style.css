@@ -76,7 +76,6 @@ body {
 .product {
     align-items: center;
     display: flex;
-    repeat: none;
 }
 
 .product-left,
